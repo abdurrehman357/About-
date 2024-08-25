@@ -8,7 +8,7 @@ Welcome to my GitHub repository! This repository serves as a showcase of my work
 - **Experience:** Over a year in Machine Learning Development
 - **Certifications:** Completed Python and Machine Learning Certifications from Coursera
 - **Publications:** 10 research publications in various areas, including Santimel analysis, Income prediction, and Spam Message Detection using ML algorithms
-- **Recent Achievement:** One of my articles was published in the International Journal of Advanced Computer Science and Applications (IJACSA) last month.
+- **Recent Achievement:** One of my articles was published in the International Journal of Advanced Computer Science and Applications (IJACSA).
 
 ## Research Focus
 
@@ -39,7 +39,7 @@ Please visit my [Google Scholar profile](https://scholar.google.com/citations?hl
 
 ## Projects
 
-You can find some of my machine learning projects in this repository. These projects cover various domains and showcase my skills and expertise in the field.
+You can find some of my machine-learning projects in this repository. These projects cover various domains and showcase my skills and expertise in the field.
 
 1. [Cataract Detection with Transfer Learning](https://github.com/abdurrehman357/Cataract-Detection-with-Transfer-Learning)
 2. [Image Detection using Transfer Learning](https://github.com/abdurrehman357/Image-Detection-using-Transfer-Learning)
